@@ -1,4 +1,6 @@
 # EX-10:OPENING--AND-CLOSING
+## DATE : 26-10-2024
+
 ## Aim
 To implement Opening and Closing using Python and OpenCV.
 
